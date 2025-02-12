@@ -1,0 +1,14 @@
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px; /* Espaciado entre elementos */
+  }
+  
+  form div {
+    display: flex;
+    flex-direction: column;
+  }
+  
+ 
+  
+  
